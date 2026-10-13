@@ -1,0 +1,141 @@
+{
+  "type": "FeatureCollection",
+  "name": "Loteamentos e Conj. Habitacionais",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTOCOLO": "042/2024",
+        "ANO ENTRADA": 2024,
+        "MUNICIPIO": "Campinas",
+        "NOME DO EMPREENDIMENTO": "Residencial Alphaville Campinas Norte",
+        "PROPRIETARIO": "Alphaville Urbanismo S.A.",
+        "LOCALIZAÇÃO/ENDEREÇO": "Rodovia Eng. Miguel Noel Nascentes Burnier, s/n - Alphaville",
+        "ÁREA TOTAL DA GLEBA/M²": 540000,
+        "Nº DE UNIDADES HABITACIONAIS": 620,
+        "DATA DE ENTRADA": "15/02/2024",
+        "DATA DO CERTIFICADO": "20/06/2024",
+        "Nº DO CERTIFICADO": "CERT-GRAPROHAB-184/2024",
+        "SITUAÇÃO": "Aprovado com Certificado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-47.052, -22.845],
+          [-47.038, -22.842],
+          [-47.035, -22.854],
+          [-47.048, -22.858],
+          [-47.052, -22.845]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTOCOLO": "118/2023",
+        "ANO ENTRADA": 2023,
+        "MUNICIPIO": "Campinas",
+        "NOME DO EMPREENDIMENTO": "Conjunto Habitacional Parque das Flores (CDHU)",
+        "PROPRIETARIO": "CDHU - Cia Desenvolvimento Habitacional Urbano SP",
+        "LOCALIZAÇÃO/ENDEREÇO": "Estrada dos Amarais, s/n - Jardim Santa Mônica",
+        "ÁREA TOTAL DA GLEBA/M²": 285000,
+        "Nº DE UNIDADES HABITACIONAIS": 850,
+        "DATA DE ENTRADA": "10/05/2023",
+        "DATA DO CERTIFICADO": "14/09/2023",
+        "Nº DO CERTIFICADO": "CERT-GRAPROHAB-412/2023",
+        "SITUAÇÃO": "Aprovado com Certificado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-47.125, -22.920],
+          [-47.112, -22.918],
+          [-47.110, -22.931],
+          [-47.123, -22.933],
+          [-47.125, -22.920]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTOCOLO": "089/2024",
+        "ANO ENTRADA": 2024,
+        "MUNICIPIO": "Sorocaba",
+        "NOME DO EMPREENDIMENTO": "Loteamento Reserva Ipanema",
+        "PROPRIETARIO": "Setpar Empreendimentos Imobiliários",
+        "LOCALIZAÇÃO/ENDEREÇO": "Avenida Ipanema, Km 4 - Zona Norte",
+        "ÁREA TOTAL DA GLEBA/M²": 420000,
+        "Nº DE UNIDADES HABITACIONAIS": 740,
+        "DATA DE ENTRADA": "20/01/2024",
+        "DATA DO CERTIFICADO": "18/05/2024",
+        "Nº DO CERTIFICADO": "CERT-GRAPROHAB-229/2024",
+        "SITUAÇÃO": "Aprovado com Certificado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-47.495, -23.460],
+          [-47.478, -23.455],
+          [-47.472, -23.468],
+          [-47.490, -23.473],
+          [-47.495, -23.460]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTOCOLO": "015/2024",
+        "ANO ENTRADA": 2024,
+        "MUNICIPIO": "São José do Rio Preto",
+        "NOME DO EMPREENDIMENTO": "Residencial Quinta do Golfe Jardins",
+        "PROPRIETARIO": "Encalso Damha Empreendimentos",
+        "LOCALIZAÇÃO/ENDEREÇO": "Avenida Waldemar Haddad, s/n - Quinta do Golfe",
+        "ÁREA TOTAL DA GLEBA/M²": 480000,
+        "Nº DE UNIDADES HABITACIONAIS": 520,
+        "DATA DE ENTRADA": "12/01/2024",
+        "DATA DO CERTIFICADO": "25/04/2024",
+        "Nº DO CERTIFICADO": "CERT-GRAPROHAB-098/2024",
+        "SITUAÇÃO": "Aprovado com Certificado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-49.390, -20.835],
+          [-49.375, -20.830],
+          [-49.370, -20.844],
+          [-49.386, -20.849],
+          [-49.390, -20.835]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "PROTOCOLO": "163/2024",
+        "ANO ENTRADA": 2024,
+        "MUNICIPIO": "Ribeirão Preto",
+        "NOME DO EMPREENDIMENTO": "Loteamento Jardim Olhos D’Água II",
+        "PROPRIETARIO": "Habitax Desenvolvimento Imobiliário",
+        "LOCALIZAÇÃO/ENDEREÇO": "Prolongamento da Av. Prof. João Fiúsa - Zona Sul",
+        "ÁREA TOTAL DA GLEBA/M²": 610000,
+        "Nº DE UNIDADES HABITACIONAIS": 920,
+        "DATA DE ENTRADA": "18/03/2024",
+        "DATA DO CERTIFICADO": "11/07/2024",
+        "Nº DO CERTIFICADO": "CERT-GRAPROHAB-312/2024",
+        "SITUAÇÃO": "Aprovado com Certificado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-47.820, -21.220],
+          [-47.802, -21.215],
+          [-47.798, -21.232],
+          [-47.816, -21.236],
+          [-47.820, -21.220]
+        ]]
+      }
+    }
+  ]
+}
